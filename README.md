@@ -32,9 +32,9 @@ metadata:
    <a href="https://www.w3schools.com/html/default.asp">
      <img height="45" src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="gcp" height="45"/></a>
      <a href="https://www.w3schools.com/css/default.asp">
-     <img height="45" src="https://www.svgrepo.com/show/508794/css3-01.svg" alt="gcp" height="45"/></a>
-     <a href="https://https://www.w3schools.com/js/default.asp">
-     <img height="45" src="https://www.svgrepo.com/show/508920/js01.svg" alt="gcp" height="45"/></a>
+     <img height="45" src="https://www.svgrepo.com/show/349330/css3.svg" alt="gcp" height="45"/></a>
+     <a href="https://www.w3schools.com/js/default.asp">
+     <img height="45" src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt="gcp" height="45"/></a>
      <a href="https://dotnet.microsoft.com/en-us/learn/maui/first-app-tutorial/intro">
-     <img height="45" src="https://lightningchart.com/wp-content/uploads/images/icons/maui-logo.svg" alt="gcp" height="45"/></a>
-   
+     <img height="45" src="https://styles.redditmedia.com/t5_2odyx7/styles/communityIcon_19sk0x18irz41.png?width=256&s=6c4e3deb2a7f1b77281e0baaf0210c7100a72073" alt="gcp" height="45"/></a>
+     
