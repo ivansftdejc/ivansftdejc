@@ -1,3 +1,4 @@
+```
 ### Hi there 👋
 apiVersion: v1
 kind: SoftwareDeveloper
@@ -14,3 +15,4 @@ metadata:
         interests: .net Maui, fullstack, machine learning
         sports: voleybol, football
         community: angola open-source community
+```
