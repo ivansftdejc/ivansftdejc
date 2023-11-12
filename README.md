@@ -30,6 +30,6 @@ metadata:
 <p>
  <br>
    <a href="https://www.w3schools.com/html/default.asp">
-     <img height="45" src="https://clipartcraft.com/images/html5-logo-clipart-4.png" alt="gcp" height="45"/>
+     <img height="45" src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="gcp" height="45"/>
    </a>
    
