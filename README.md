@@ -30,6 +30,11 @@ metadata:
 <p>
  <br>
    <a href="https://www.w3schools.com/html/default.asp">
-     <img height="45" src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="gcp" height="45"/>
-   </a>
+     <img height="45" src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="gcp" height="45"/></a>
+     <a href="https://www.w3schools.com/css/default.asp">
+     <img height="45" src="https://www.svgrepo.com/show/508794/css3-01.svg" alt="gcp" height="45"/></a>
+     <a href="https://https://www.w3schools.com/js/default.asp">
+     <img height="45" src="https://www.svgrepo.com/show/508920/js01.svg" alt="gcp" height="45"/></a>
+     <a href="https://dotnet.microsoft.com/en-us/learn/maui/first-app-tutorial/intro">
+     <img height="45" src="https://lightningchart.com/wp-content/uploads/images/icons/maui-logo.svg" alt="gcp" height="45"/></a>
    
