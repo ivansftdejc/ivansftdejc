@@ -18,8 +18,8 @@ metadata:
 ```
 <a href="https://github.com/ivansftdejc">
     <img height=210 width=210 src="https://scontent.flad8-2.fna.fbcdn.net/m1/v/t6/An-3yYhHVfUEUo8sQKTYFrm_KZyvrNWCZalfxQVfQ54ZujrIBFxdpvE117ugaphqjbIv-Ad3CYDNCfEtCJTWbJuXnSvqCGRy3OvzzVHQ7CtjzzMG1Wxpb9Fka-O-TeW2UBUnEuR8IQ2h0VFOIsqwyL4dU-0JYVkpFE_vo-_92yasEFUeZpm0T-BGb6sfF0j2y3vqVyOSp7OT.WEBP?strext=1&ccb=10-5&oh=00_AfDLyT_GtyqrjbFBGcZvdyPdvdS5nKsTvqro_D_qMhAhig&oe=6561FD5B&_nc_sid=185cbb"/>
-     <img height=210 width=50% src="https://github-readme-stats.vercel.app/api?username=ivansftdejc&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ivansftdejc's GitHub stats" />
-     <img height=210 width=28% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivansftdejc&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+     <img height=210 width=50% src="https://github-readme-stats.vercel.app/api?username=ivansftdejc&show_icons=true&hide=&count_private=true&theme=dracula&hide_border=true&show_icons=true" alt="ivansftdejc's GitHub stats" />
+     <img height=210 width=28% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivansftdejc&theme=dracula&hide_border=true" />
      </a>
 <h1>Socials<h1>
  <p align="left"> <a href="https://www.facebook.com/profile.php?id=61551577535460" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
